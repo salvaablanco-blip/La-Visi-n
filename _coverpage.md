@@ -166,12 +166,8 @@ Para el personaje diseñe varios modelos pero finalmente me quede con Lolo un pe
 
 
 <!---- Portada ----> 
-<img align="center" src="animación.jpg" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="animación.png" width="300" height=auto alt="Logotipo"/>
 
-* Video:
-
-<!---- Portada ----> 
-<img align="center" src="video_teaser.ogv" width="300" height=auto alt="Logotipo"/>
 
 
 **Herramientas utilizadas**
