@@ -1,5 +1,14 @@
 <!-- _coverpage.md -->
 
+```html
+<style>
+body{
+    background-color:black;
+    color:white;
+    text-align:right;
+}
+</style>
+```
 
 # LA VISION
  
