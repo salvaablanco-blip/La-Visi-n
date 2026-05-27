@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-# Creación Multimedia Interactiva
+# LA VISION
  
 
 
@@ -147,7 +147,16 @@ El mayor reto ha sido poner el juego debido a que tiene mucha complicacion en lo
 
 **Recursos y materiales audiovisuales:**
 
-* Imágenes:  
+* Imágenes:
+  
+<!---- Portada ----> 
+<img align="center" src="lavisionletra.png" width="300" height=auto alt="Logotipo"/>
+
+* Video:
+
+<!---- Portada ----> 
+<img align="center" src="video_teaser.ogv" width="300" height=auto alt="Logotipo"/>
+
 
 **Herramientas utilizadas**
 
