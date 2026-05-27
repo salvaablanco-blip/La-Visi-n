@@ -148,12 +148,17 @@ El mayor reto ha sido poner el juego debido a que tiene mucha complicacion en lo
 **Recursos y materiales audiovisuales:**
 
 * Imágenes:
-  
+  Cree las imagenes apartir de un diseño simple en photoshop y luego lo diseñe con procreate para terminar con la edicion del dibujo mediante un filtro estilo videojuego.
+Idea de diseño:
 <!---- Portada ----> 
 <img align="center" src="TYUI.jpg" width="300" height=auto alt="Logotipo"/>
-
+Resultado final
 <!---- Portada ----> 
 <img align="center" src="688d0b22-66a7-4a16-b95e-06028841333a.jpg" width="300" height=auto alt="Logotipo"/>
+
+Para el personaje diseñe varios modelos pero finalmente me quede con Lolo un personaje que fusiona la tonalidad rosa y lo onirico con la ternura de un anciano que tiene visiones.
+
+
 
 * Video:
 
