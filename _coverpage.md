@@ -150,7 +150,10 @@ El mayor reto ha sido poner el juego debido a que tiene mucha complicacion en lo
 * Imágenes:
   
 <!---- Portada ----> 
-<img align="center" src="lavisionletra.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="TYUI.jpg" width="300" height=auto alt="Logotipo"/>
+
+<!---- Portada ----> 
+<img align="center" src="688d0b22-66a7-4a16-b95e-06028841333a.jpg" width="300" height=auto alt="Logotipo"/>
 
 * Video:
 
