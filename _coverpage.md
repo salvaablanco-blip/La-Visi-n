@@ -4,6 +4,7 @@
 # LA VISION
  
 
+LOGOTIPO OFICIAL
 
 <!---- Portada ----> 
 <img align="center" src="lavisionletra.png" width="300" height=auto alt="Logotipo"/>
@@ -166,7 +167,7 @@ Para el personaje diseñe varios modelos pero finalmente me quede con Lolo un pe
 
 
 <!---- Portada ----> 
-<img align="center" src="animación.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="animacion.png" width="300" height=auto alt="Logotipo"/>
 
 
 
@@ -174,11 +175,8 @@ Para el personaje diseñe varios modelos pero finalmente me quede con Lolo un pe
 
 - Godot Engine 4.x
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
-
-* logos en https://creativecommons.org/mission/downloads/
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
