@@ -6,7 +6,7 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="PORTTAADA.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="lavisionletra.png" width="300" height=auto alt="Logotipo"/>
 
 
 ### Enlace a Itch.io: https://esalvablancogougres.itch.io/la-visin
